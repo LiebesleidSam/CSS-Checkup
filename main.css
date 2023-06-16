@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+}
+
+#body-paragraph {
+    margin: 5% 20%;
+    padding: 2%;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid blue;
+    background-color: lightgray;
+}
+
